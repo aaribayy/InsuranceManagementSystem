@@ -1,0 +1,6 @@
+.light-transparent-background {
+    background-color: rgba(255, 255, 255, 0.7); /* Adjust the opacity (0.7 in this case) */
+    width: 300px;
+    height: 200px;
+    /* Add other styles as needed */
+  }
